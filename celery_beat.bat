@@ -1,0 +1,1 @@
+celery -A mail beat
